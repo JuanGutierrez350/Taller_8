@@ -6,7 +6,7 @@ En este taller cree la carpeta JSP en la que anexe dentro una carpeta llamada Te
 ![image](https://github.com/JuanGutierrez350/Taller_8/assets/125483059/4eff6249-2cc2-4140-972a-35bbef84928d)
 
 
-#Incluyendo las estructuras .jsp en el index 
+INCLUYENDO LAS ESTRUCTURAS JSP 
 
 En el index realizamos la siguiente estructura <jsp: include page= "JSP/Templates/Body.jsp"/>
 Esto nos permitira hacer un vinculo con toda la estructura de codigo que tengamos dentro de nuestro Body.jsp.
